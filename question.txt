@@ -1,0 +1,33 @@
+
+- What is HCL?
+- When was HCL founded?
+- What services does HCL provide?
+-  Where is HCL headquartered?
+- How many employees does HCL have?
+- What CSR programs does HCL run?
+- How does HCL promote innovation?
+Who is PM of India?
+What is day today?
+
+When was HCL founded
+
+
+--------------------------- my promt ----------------
+Answer the question using ONLY the context below.
+If the answer is not in the context, reply exactly: "Not found in document".
+Do NOT guess or add any extra information. 
+
+You are a helpful assistant.
+Answer the question using the provided context.
+Always answer in a complete sentence.
+If the answer is not in the context, reply exactly: "Not found in document".
+Do NOT guess or add any extra information.
+
+~/.cache/huggingface/
+rm -rf ~/.cache/huggingface/hub/models--google--flan-t5-small
+streamlit run app.py --server.port 8501
+
+
+!pip install -U langchain langchain-community langchain-huggingface langchain-text-splitters faiss-cpu sentence-transformers transformers pypdf
+
+HCL has more than 200,000 employees.

@@ -1,0 +1,53 @@
+Basic factual questions
+Where is HCL headquartered?
+Who founded HCL?
+In which year was HCL founded?
+How many countries does HCL operate in?
+How many employees does HCL have?
+
+--------------------------------------------
+
+💼 Company services & operations
+What services does HCL provide?
+What are the main business areas of HCL?
+What is HCL’s global delivery model?
+Which industries does HCL serve?
+What are the divisions of HCL?
+
+
+
+🚀 Innovation & strategy
+How does HCL promote innovation?
+What is HCL’s Mode 1-2-3 strategy?
+How does HCL support research and development?
+Why is innovation important for HCL?
+How does HCL encourage creativity among employees?
+
+------------------------------------
+👨‍💼 Employees & culture
+What is HCL’s employee-first philosophy?
+How does HCL support employee development?
+What training programs does HCL offer?
+What is HCL’s approach to leadership development?
+How many employees work at HCL globally?
+
+
+_________________________________________
+🌍 CSR & sustainability
+What CSR activities does HCL do?
+How does HCL support education and healthcare?
+What sustainability initiatives does HCL follow?
+How does HCL reduce carbon footprint?
+What is HCL’s role in digital inclusion?
+🧠 Higher-level reasoning (important for RAG testing)
+Why is HCL considered a global IT company?
+How has HCL evolved over time?
+What makes HCL different from other IT companies?
+How does HCL combine innovation and business strategy?
+What is the significance of HCL’s global presence?
+⚡ Hard edge-case questions (to test RAG failure cases)
+What was HCL’s original business focus?
+Does HCL operate in healthcare sector?
+Is HCL involved in cloud computing?
+What is the exact employee count of HCL?
+Does HCL work with Fortune 500 companies?
