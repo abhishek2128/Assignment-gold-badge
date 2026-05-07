@@ -1,0 +1,18 @@
+Check file upload → validate PDF/TXT → ensure not blank → extract content → verify data exists → generate answer → cache result for faster future access.
+
+
+1- Check if a file is uploaded or exists; if not, return “Please upload a file first before clicking Load”
+
+2- Validate the file type to ensure only PDF or TXT files are accepted; otherwise return “Unsupported file type”
+
+3- Check whether the file is blank by verifying size or content; if it is empty, return “PDF has no readable text (blank or scanned PDF)” or "Uploaded file is empty"
+
+4- Extract the content from the file after all validations are successfully passed.
+
+5- Verify whether the required data exists in the extracted content; if not found, return “Data not found in document”
+
+6- Process both dropdown sample questions and custom user questions using the same logic flow.
+
+7- Generate the answer based on the extracted and validated file content.
+
+8- Store the first successful result in cache memory to improve performance and return cached results for repeated requests with the same input.
